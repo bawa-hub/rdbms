@@ -1,1 +1,9 @@
->> mysql -u root -p
+# linux
+# On Linux, you can start the server with the following commands using service, init.d, and systemd
+systemctl start mysql
+# or
+/etc/init.d/mysql start
+
+
+# login to mysql
+mysql -u root -p
