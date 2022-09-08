@@ -1,5 +1,7 @@
 # Tutorials --
 
+https://roadmap.sh/postgresql-dba
+https://www.sqltutorial.org/
 https://www.mysqltutorial.org/
 https://www.postgresqltutorial.com/
 https://www.mongodbtutorial.org/
